@@ -27,4 +27,8 @@ A wallet app for purchasing coins and NFTs
  - 在购买页面中，点击输入框，输入你想购买的代币数量，再点确定，返回到账户页
  - 此时可以看到，账户页的余额已经更新
 
+## 运行截图
+
+![Image text](https://raw.github.com/charles2alvin/repositpry/main/metamusk/assets/WelcomeImage.png)
+
 以上就是本app的所有功能。感谢你的光临！
