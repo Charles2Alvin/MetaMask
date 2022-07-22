@@ -29,6 +29,6 @@ A wallet app for purchasing coins and NFTs
 
 ## 运行截图
 
-![Image text](https://raw.github.com/charles2alvin/repositpry/main/metamusk/assets/WelcomeImage.png)
+![Image text](https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/AccountScreen.PNG)
 
 以上就是本app的所有功能。感谢你的光临！
