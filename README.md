@@ -28,6 +28,8 @@ A wallet app for purchasing coins and NFTs
  - 此时可以看到，账户页的余额已经更新
 
 ## 运行截图
+<img src="https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/AccountScreen.PNG" alt="drawing" width="200"/>
+
 
 ![Image text](https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/AccountScreen.PNG)
 
