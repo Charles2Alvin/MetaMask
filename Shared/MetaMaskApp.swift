@@ -11,7 +11,8 @@ import SwiftUI
 struct MetaMaskApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            AccountView(balance: <#T##Int64#>)
+            WelcomeView()
         }
     }
 }
