@@ -1,5 +1,5 @@
 # MetaMask
-A wallet app for purchasing coins and NFTs
+A wallet app for purchasing coins and NFTs.
 
 ## 这是什么App？
 这是一个模仿MetaMusk的app，所有设计与图片均来自MetaMusk及网上资源。
@@ -39,9 +39,10 @@ A wallet app for purchasing coins and NFTs
 - 点击输入框，输入你想购买的代币数量，再点确定，返回到账户页
 - 此时可以看到，账户页的余额已经更新
 
+
+以上就是本app的所有功能。感谢你的光临！
+
 ## 运行截图
 <img src="https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/WelcomeScreen.PNG" alt="drawing" width="200"/>
 <img src="https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/AccountScreen.PNG" alt="drawing" width="200"/>
 <img src="https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/PurchaseScreen.PNG" alt="drawing" width="200"/>
-
-以上就是本app的所有功能。感谢你的光临！
