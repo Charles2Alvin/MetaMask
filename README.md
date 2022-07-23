@@ -22,7 +22,9 @@ A wallet app for purchasing coins and NFTs
 ```
 
 ## 使用指引
+### 欢迎页
 - 在欢迎页点击“开始使用”，可以进入账户详情页
+### 详情页
 - 详情页中，关于代币交易的功能有4个：
   + 接收
   + 购买 ✅
@@ -31,9 +33,11 @@ A wallet app for purchasing coins and NFTs
   
   其中只有购买功能是可用的，所以该图标为蓝色、其他不可用的图标为灰色
   
- - 在详情页中，点击购买图标，或者点击底部的“购买ETH”，可以进入购买页面
- - 在购买页面中，点击输入框，输入你想购买的代币数量，再点确定，返回到账户页
- - 此时可以看到，账户页的余额已经更新
+- 中间的tabview展示了该账户的代币余额和收藏品，点击对应tab可以进行切换
+- 点击购买图标，或者点击底部的“购买ETH”，可以进入购买页面
+### 购买页
+- 点击输入框，输入你想购买的代币数量，再点确定，返回到账户页
+- 此时可以看到，账户页的余额已经更新
 
 ## 运行截图
 <img src="https://github.com/Charles2Alvin/MetaMask/blob/main/Shared/Resources/images/WelcomeScreen.PNG" alt="drawing" width="200"/>
