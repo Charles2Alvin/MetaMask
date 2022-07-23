@@ -11,7 +11,15 @@ A wallet app for purchasing coins and NFTs
 - PurchaseView（购买页），可以购买代币
 
 ## 数据源
-从resources文件夹中读取账户数据account.json，该文件包含用户名、代币余额、账户的公共地址
+从resources文件夹中读取账户数据account.json，该文件包含用户名、代币余额、账户的公共地址。
+示例如下：
+```json
+{
+    "username": "比尔盖茨", 
+    "balance": 784,
+    "publicAddress": "0x24ac93eE84ae3D2F2087F3f43e1ed6F06D81189A"
+}
+```
 
 ## 使用指引
 - 在欢迎页点击“开始使用”，可以进入账户详情页
